@@ -8,6 +8,7 @@ My first pseudocode was PSeInt and I want to learn Python, Java and HTML.
 
 
 
+
 -🌍  ¡I am located in Colombia!
 
 -✉️  You can contact me at laucasan819@gmail.com
