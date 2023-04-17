@@ -1,34 +1,16 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
-<h1 align="left">Hola <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, soy Mayk Brito</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Vistas de perfil" /> </p>
+<h1 align="center">Hola 👋, soy Camila</h1>
+<h3 align="center">Una desarrolladora frontend apasionada de Cali, Colombia</h3>
 
-- 🔥 Desarrollador web sénior e instructor enfocado en ayudar a las personas a comenzar a programar
+<p align="left"> <img src ="https://komarev.com/ghpvc/?username=camiilasanr&label=Profile%20views&color=0e75b6&style=flat" alt="camiilasanr" /> </p>
 
-- 🔭 Actualmente trabajo en [ Rocketseat ](https://github.com/Rocketseat)
+<p align="left"> <a href="https ://github.com/ryo-ma/github-profile-trofeo"><img src="https://github-profile-trofeo.vercel.app/?username=camiilasanr" alt="camiilasanr" />< /a> </p>
 
-- ▶️ (No) publico regularmente videos en [ youtube.com/maykbrito ](https://youtube.com/maykbrito)
+<h3 align="left">Conéctate conmigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/camiilasanr" target= "blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg " alt="camiilasanr" altura="30" ancho="40" /></a>
+<a href="https://instagram.com/camiilasanr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="camiilasanr" height="30" width="40" /></a> </p>
+<
 
-- 💬 Pregúntame sobre **JavaScript, HTML, CSS, SQL, Node.JS**
+h3 align="left">Idiomas y Herramientas:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent. com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https:// www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark .svg" alt="html5" ancho="40" altura="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" objetivo ="_en blanco" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/ > </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master /icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/ react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/ react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-- ⚡ Dato curioso **Oneye 😜**
-
-- 👨‍💻 Más en [ maykbrito.dev ](https://maykbrito.dev)
-
-<!--
-<br><br>
-## 🛠  Pila de tecnología
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) 
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) 
-![Reaccionar](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) 
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) 
-
-<br><br>
-## ⚙️  Análisis de GitHub
-<p align="izquierda">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="estadísticas de maykbrito"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="La mayoría de los idiomas de maykbrito" />
-</p>
--->
