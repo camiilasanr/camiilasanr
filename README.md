@@ -17,8 +17,6 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-<p>Thank you for taking the time to view my GitHub Profile :)</p>
-
 <h2 align="center">Where You can find me:</h2>
 <p align="center">
   
@@ -28,4 +26,7 @@
 <a href="https://www.instagram.com/camiilasanr/" target="_blank" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+
+<p>Thank you for taking the time to view my GitHub Profile :)</p>
+
  
