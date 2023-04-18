@@ -7,7 +7,7 @@
 
 <h1 align='center'>I'm Laura Camila Sánchez <img src="https://user-images.githubusercontent.com/74615811/176965160-77dbc9b7-98bc-4c65-97ef-aee35f106fdb.gif" width = 50px> <br />Front-End Developer - Web Programming</h1>
 
-### 🧰 Languages and Tools
+###Languages and Tools
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
