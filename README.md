@@ -17,8 +17,8 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-<h2 align="center">Where You can find me:</h2>
-<p align="center">
+<h2 align="left">Where You can find me:</h2>
+<p align="left">
   
   <a href="https://www.linkedin.com/in/camiilasanr/" target="_blank" alt="Linkedin">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
