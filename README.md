@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=696969&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!)](https://git.io/typing-svg)
 
 
-<h1 align='center'>I'm Laura Camila Sánchez <img src="https://user-images.githubusercontent.com/74615811/176965160-77dbc9b7-98bc-4c65-97ef-aee35f106fdb.gif" width = 37px> <br />Front-End Developer</h1>
+<h1 align='center'>I'm Laura Camila Sánchez <img src="https://user-images.githubusercontent.com/74615811/176965160-77dbc9b7-98bc-4c65-97ef-aee35f106fdb.gif" width = 50px> <br />Front-End Developer - Web Programming</h1>
 
 ### 🧰 Languages and Tools
 
@@ -14,10 +14,9 @@
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
 <br />
+
 <p>Thank you for taking the time to view my GitHub Profile :)</p>
 
 <h2 align="center">Where You can find me:</h2>
