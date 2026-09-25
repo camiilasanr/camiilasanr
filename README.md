@@ -1,6 +1,6 @@
 # Laura Camila Sánchez Rosero
 
-**Business Analysis · Product · Web Design · E-commerce**
+**Business Analysis · Product Owner · Web Design · E-commerce**
 
 I'm currently finishing my degree in Business Administration and studying Software Engineering.
 
@@ -8,7 +8,7 @@ I have experience in Business Analysis, Functional Analysis and E-commerce, and 
 
 I also enjoy working in Figma, designing websites and interfaces, creating desktop and mobile wallpapers, and working on personal digital projects.
 
-## Selected work
+## work
 
 ### Finora
 
