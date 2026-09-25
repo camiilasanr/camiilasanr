@@ -8,7 +8,7 @@ I have experience in Business Analysis, Functional Analysis and E-commerce, and 
 
 I also enjoy working in Figma, designing websites and interfaces, creating desktop and mobile wallpapers, and working on personal digital projects.
 
-## work
+## Work
 
 ### Finora
 
