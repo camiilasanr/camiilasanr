@@ -1,16 +1,38 @@
-## Hi there 👋
+# Laura Camila Sánchez Rosero
 
-<!--
-**camiilasanr/camiilasanr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Business Analysis · Product · Web Design · E-commerce**
 
-Here are some ideas to get you started:
+I'm currently finishing my degree in Business Administration and studying Software Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have experience in Business Analysis, Functional Analysis and E-commerce, and I'm especially interested in roles related to **Business Analysis, Product Ownership and Web Design**.
+
+I also enjoy working in Figma, designing websites and interfaces, creating desktop and mobile wallpapers, and working on personal digital projects.
+
+## Selected work
+
+### Finora
+
+A personal finance web app for managing accounts, transactions, budgets, categories and savings goals.
+
+For this project, I worked on the product idea, requirements, user flows, design decisions, testing and AI-assisted implementation.
+
+[View Finora](https://github.com/camiilasanr/finora)
+
+## What I work with
+
+**Business & Product**  
+Business Analysis · Functional Analysis · Requirements · Product · Scrum · E-commerce
+
+**Design**  
+Figma · Web Design · UI/UX · Prototyping · Responsive Design · Visual Design
+
+**Technology**  
+SQL · HTML · CSS · Git · GitHub · APIs · AI-assisted Development
+
+## Currently interested in
+
+Business Analyst · Product Owner · Web Designer · Functional Analyst · E-commerce
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/camiilasanr/)
